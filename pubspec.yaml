@@ -1,5 +1,5 @@
 name: qr_styler
-description: "A new Flutter package project."
+description: "A highly customizable Flutter QR code widget with support for styled dots, rounded corners, eye design control, horizontal & vertical connections, and center logo embedding. Easily create modern, branded, and scannable QR codes with flexible design options."
 version: 1.0.0
 homepage: https://github.com/mhmd-abdelrazek/qr_styler
 
